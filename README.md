@@ -4,6 +4,10 @@
 | ------------- | ------------- |
 
 - 👀 I am interested in developing
+ * I know: Lua, HTML, CSS, Python, XML, Pascal
+ * I Learning: C++, C#
+ * I little know: JS node, Scss (SASS), Git
+ * I want to learn: JAVA, Rust, Ruby, Javascript, SQL, F#, C, C+
 - 📫 How to reach me? Discord: 'MediQ#0001'
 <!---
 Niobiyd/Niobiyd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
